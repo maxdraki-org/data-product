@@ -3,5 +3,11 @@ description: A Template to help document Data Products
 itemType: template
 tags:
   - data-product
-creation: {}
-metadata: {}
+creation:
+  template: null
+  __typename: InsightCreation
+  clonedFrom: null
+metadata:
+  team: null
+  __typename: InsightMetadata
+  publishedDate: null
